@@ -3,7 +3,8 @@
 
 ## I'm a Husband, Security Researcher
 
-- 🌱 I’m currently learning everything 🤣
+
+- 🌱 I’m currently learning everything 
 - 👯 I'do my best
 - 🥅 2020 Goals: Contribute more to security researcher community
 - ⚡ Fun fact: I love to and play guitar
@@ -25,6 +26,4 @@
 
 <br />
 <br />
-
----
 
